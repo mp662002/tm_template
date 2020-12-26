@@ -1,0 +1,14 @@
+.test {
+    background: #eee;
+    z-index: 11111111;
+    margin: 20px;
+    /* position: absolute;
+    left: 100px;
+    top: 200px; */
+    /* background-image: url("./a.jpg"); */
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
